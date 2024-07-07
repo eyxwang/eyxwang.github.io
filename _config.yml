@@ -52,7 +52,7 @@ search_enabled: false
 socials_in_search: false
 
 # Dimensions
-max_width: 900px # 930px by default # max-width of the content area
+max_width: 930px # 930px by default # max-width of the content area
 
 # TODO: add layout settings (single page vs. multi-page)
 

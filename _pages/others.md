@@ -10,10 +10,12 @@ header-background-img: "../assets/img/bg6.jpg"
 ---
 
 ### My favorite song to you!
+
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/hk/album/%E7%B4%84%E5%AE%9A/1442377710?i=1442377715&l=en-GB"></iframe>
 <br>
 
 ### PolyU@6AM, Hung Hom@12PM🇭🇰🇭🇰🇭🇰
+
 <a href="../../assets/img/gallery/polyu.jpg">
   <img src="../assets/img/gallery/polyu.jpg" alt="PolyU" width="400">
 </a>
@@ -22,6 +24,7 @@ header-background-img: "../assets/img/bg6.jpg"
 </a><br>
 
 ### Working makes you happy!🤯🤯🤯
+
 <a href="../../assets/img/gallery/working">
   <img src="../assets/img/gallery/working.jpg" alt="Staying up" width="250">
 </a>
@@ -33,6 +36,7 @@ header-background-img: "../assets/img/bg6.jpg"
 </a><br>
 
 ### Believe the light🌞 lol~ little cat🤣
+
 <a href="../../assets/img/gallery/light">
   <img src="../assets/img/gallery/light.jpg" alt="light" width="250">
 </a>
@@ -41,6 +45,7 @@ header-background-img: "../assets/img/bg6.jpg"
 </a><br>
 
 ### Shenzhen University 🤗🤗🤗
+
 <a href="../../assets/img/gallery/sz">
   <img src="../assets/img/gallery/ilovesz.jpg" alt="iloversz" width="200">
 </a>
@@ -55,6 +60,7 @@ header-background-img: "../assets/img/bg6.jpg"
 </a><br>
 
 ### Beautiful things 🍚🥬🐠
+
 <a href="../../assets/img/gallery/dinner">
   <img src="../assets/img/gallery/dinner.jpg" alt="dinner" width="250">
 </a>
@@ -66,6 +72,7 @@ header-background-img: "../assets/img/bg6.jpg"
 </a><br>
 
 ### JOY 🐱🔥🏀⛅
+
 <a href="../../assets/img/gallery/cat">
   <img src="../assets/img/gallery/cc.jpg" alt="cc" width="220">
 </a>
@@ -80,6 +87,7 @@ header-background-img: "../assets/img/bg6.jpg"
 </a><br>
 
 ### Time Capsule 🌝🌑🌒🌓🌔🌕🌖🌗🌘🌝19->20->21->22
+
 <a href="../../assets/img/gallery/2019">
   <img src="../assets/img/gallery/2019.jpg" alt="2019" width="220">
 </a>
@@ -89,6 +97,6 @@ header-background-img: "../assets/img/bg6.jpg"
 <a href="../../assets/img/gallery/2021">
   <img src="../assets/img/gallery/2021.jpg" alt="2021" width="220">
 </a>
-<a href="../../assets/img/gallery/2022">
-  <img src="../assets/img/gallery/2022.jpg" alt="2022" width="220">
+<a href="../../assets/img/gallery/2022postgraduate">
+  <img src="../assets/img/gallery/2022postgraduate.jpg" alt="2022" width="220">
 </a><br>
