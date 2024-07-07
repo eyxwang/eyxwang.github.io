@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Yixin
-middle_name: 
+middle_name:
 last_name: WANG
 email: yixinwong1998@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -52,7 +52,7 @@ search_enabled: false
 socials_in_search: false
 
 # Dimensions
-max_width: 930px # 930px by default # max-width of the content area
+max_width: 900px # 930px by default # max-width of the content area
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -188,12 +188,12 @@ collections:
     output: true
     permalink: /projects/:path/
 
-announcements:  # show announcements on the front page
+announcements: # show announcements on the front page
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:  # show the latest post on the front page
+latest_posts: # show the latest post on the front page
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
@@ -321,7 +321,7 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
-  query: "@*"  # original settings
+  query: "@*" # original settings
   # group_by: year
   group_order: descending
   group_by: category
