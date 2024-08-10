@@ -11,7 +11,7 @@ profile:
   align: right
   image: wangyixin.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: > 
+  more_info: >
     <p>🫣🫣🫣Yixin_WANG/王亿鑫.JPEG🤗</p>
 
 news: false # includes a list of news items
@@ -32,6 +32,18 @@ Yixin is currently looking for a research position as a PhD student. He hopes to
 </div>
 <br>
 <div style="text-align: justify;">
-<strong>Research Interests</strong>: Intelligent decision-making with learning, especially Deep reinforcement learning (DRL); Data Science; Operational research and optimization in transportation and inventory management; etc.
+<strong>Research Interests</strong>: Intelligent decision-making with learning, especially Deep reinforcement learning (DRL); Data science; Operational research and optimization in transportation and inventory management; etc.
+</div>
+<br>
+
+<div style="text-align: justify;">
+<strong>Recent Book List</strong><br>
+- "<em><a href="https://doi.org/10.7551/mitpress/10187.001.0001">Decision Making Under Uncertainty: Theory and Application</a></em>" by Mykel J. Kochenderfer<br>
+- "<em><a href="https://algorithmsbook.com/">Algorithms for Decision Making</a></em>" by Mykel J. Kochenderfer<br>
+- "<em><a href="https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/">Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play</a></em>" by David Foster<br>
+- "<em><a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119815068">Reinforcement Learning and Stochastic Optimization: A Unified Framework for Sequential Decisions</a></em>" by Warren B. Powell<br>
+- "<em><a href="https://link.springer.com/book/10.1007/978-981-19-7784-8">Reinforcement Learning for Sequential Decision and Optimal Control</a></em>" by Shengbo Eben Li<br>
+- "<em><a href="https://www.oreilly.com/library/view/hands-on-meta-learning/9781789534207/">Hands-On Meta Learning with Python</a></em>" by Sudharsan Ravichandiran<br>
+- "<em><a href="https://item.jd.com/13386162.html">Deep Reinforcement Learning Hands-On (in Chinese: 深度强化学习落地指南)</a></em>" by Ning Wei<br>
 </div>
 <br>
