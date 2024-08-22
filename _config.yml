@@ -18,7 +18,7 @@ icon: favicon.ico # ⚛️ # the emoji used as the favicon (alternatively, provi
 
 url: https://yixinwong1998.github.io # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: True # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -111,7 +111,7 @@ zotero_username: # your zotero username
 
 contact_note: >
   <strong>Feel free to contact me to explore common interests!</strong> <br>
-  <strong>Email</strong>: <i>yixinwong1998@gmail.com</i>
+  <strong>Email</strong>: <i>wangyixin2020@email.sze.edu.cn</i> <strong>OR</strong> <i>yixinwong1998@gmail.com</i>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
