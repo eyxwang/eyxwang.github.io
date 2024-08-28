@@ -1,10 +1,10 @@
 ---
-layout: about
+layout: about # bundle exec jekyll serve
 title: About
 permalink: /
 nav: false
 nav_order: 0
-subtitle: "<em>Suffering is the best teacher in life. Don't be afraid of anything, try it!</em>"
+subtitle: "<em>Nothing is in vain, every step counts! Don't be afraid of anything, try it! -- to future.</em>"
 header-background-img: "../assets/img/bg2.jpg"
 
 profile:
@@ -35,9 +35,20 @@ Yixin is currently looking for a research position as a PhD student. He hopes to
 <strong>Research Interests</strong>: Intelligent decision-making with learning, especially Deep reinforcement learning (DRL); Data science; Operational research and optimization in transportation and inventory management; etc.
 </div>
 <br>
+<div class="row">
+    <div class="col-sm-2 mt-md-0"></div>
+    <div class="col-sm-8 mt-md-0" style="text-align: center;">
+        <div style="margin: auto;">
+            {% include figure.liquid loading="eager" path="assets/img/philosophy.jpg" title="exps" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="col-sm-2 mt-md-0"></div>
+</div>
+<br>
+<strong>Working Guide: S.M.A.R.T. </strong> <u>S</u>pecific, <u>M</u>easurable, <u>A</u>chievable, <u>R</u>elevant, <u>T</u>ime-bound.
 
 <div style="text-align: justify;">
-<strong>Recent Book List</strong><br>
+<strong>Recent Book List:</strong><br>
 - "<em><a href="https://doi.org/10.7551/mitpress/10187.001.0001">Decision Making Under Uncertainty: Theory and Application</a></em>" by Mykel J. Kochenderfer<br>
 - "<em><a href="https://algorithmsbook.com/">Algorithms for Decision Making</a></em>" by Mykel J. Kochenderfer<br>
 - "<em><a href="https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/">Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play</a></em>" by David Foster<br>
@@ -45,5 +56,16 @@ Yixin is currently looking for a research position as a PhD student. He hopes to
 - "<em><a href="https://link.springer.com/book/10.1007/978-981-19-7784-8">Reinforcement Learning for Sequential Decision and Optimal Control</a></em>" by Shengbo Eben Li<br>
 - "<em><a href="https://www.oreilly.com/library/view/hands-on-meta-learning/9781789534207/">Hands-On Meta Learning with Python</a></em>" by Sudharsan Ravichandiran<br>
 - "<em><a href="https://item.jd.com/13386162.html">Deep Reinforcement Learning Hands-On (in Chinese: 深度强化学习落地指南)</a></em>" by Ning Wei<br>
+</div>
+<br>
+<strong>Interesting!</strong>
+<div class="row">
+    <div class="col-sm-2 mt-md-0"></div>
+    <div class="col-sm-8 mt-md-0" style="text-align: center;">
+        <div style="margin: auto;">
+            {% include figure.liquid loading="eager" path="assets/img/personality.jpg" title="exps" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="col-sm-2 mt-md-0"></div>
 </div>
 <br>

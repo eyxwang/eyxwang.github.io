@@ -18,7 +18,7 @@ header-background-img: "../assets/img/bg3.jpg"
 
 <h3 align="left">Education:</h3>
 
-- **M.Sc.** in **Management Science and Engineering** (MSE), [College of Management](http://cm.szu.edu.cn/), [Shenzhen University (SZU)](https://en.szu.edu.cn/), 2020-2023, supervised by [Prof. Hong Wang](https://cm.szu.edu.cn/Faculty/Management_Science/WANG_Hong.htm) in [Intelligent Management & Cross Innovation Team](https://mp.weixin.qq.com/s/wvfn8Upxj9f22lMPOzTy2w) led by [Prof. Ben Niu](https://cm.szu.edu.cn/Faculty/Management_Science/NIU_Ben.htm).; 
+- **M.Sc.** in **Management Science and Engineering** (MSE), [College of Management](http://cm.szu.edu.cn/), [Shenzhen University (SZU)](https://en.szu.edu.cn/), 2020-2023, supervised by [Prof. Hong Wang](https://cm.szu.edu.cn/Faculty/Management_Science/WANG_Hong.htm) in [Intelligent Management & Cross Innovation Team](https://mp.weixin.qq.com/s/wvfn8Upxj9f22lMPOzTy2w) led by [Prof. Ben Niu](https://cm.szu.edu.cn/Faculty/Management_Science/NIU_Ben.htm).;
 - **B.Sc.** in **Industrial Engineering** (IE), [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology (DGUT)](https://www.dgut.edu.cn/), 2016-2020.
 
 <h3 align="left">Languages:</h3>
@@ -65,4 +65,16 @@ header-background-img: "../assets/img/bg3.jpg"
     <a href="https://www.gurobi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.gurobi.com/wp-content/uploads/GurobiLogo_Black-1-1-1.svg" alt=gurobi width="90" height="90"/> </a></p>
 
 <!-- OpenAI -->
+
 - Oh yes!, don't forget **GenAI tools**! <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/1920px-ChatGPT-Logo.svg.png" alt="openai" width="50" height="50"/> </a> GenAI tools have been a significant skill in this **era of AI**!
+
+<h3 align="left">S.M.A.R.T.</h3>
+<div class="row">
+    <div class="col-sm-2 mt-md-0"></div>
+    <div class="col-sm-8 mt-md-0" style="text-align: center;">
+        <div style="margin: auto;">
+            {% include figure.liquid loading="eager" path="assets/img/smart.jpg" title="exps" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="col-sm-2 mt-md-0"></div>
+</div>

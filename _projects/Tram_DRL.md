@@ -34,6 +34,17 @@ In modern cities, some public transit systems, e.g. trams and buses, face some u
 
 **Preview:**
 
+- DRL-based control framework of an example of tram network with three routes.
+<div class="row">
+    <div class="col-sm-2 mt-md-0"></div>
+    <div class="col-sm-8 mt-md-0" style="text-align: center;">
+        <div style="margin: auto;">
+            {% include figure.liquid loading="eager" path="assets/img/project_preview/tram_drl.jpg" title="exps" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="col-sm-2 mt-md-0"></div>
+</div>
+
 - With a developed DRL-based agent, the experiments show that the agent can have all the motormen take meal breaks and sign off while maintaining a low under-coverage rate on one operational day.
 <div class="row">
     <div class="col-sm-2 mt-md-0"></div>
