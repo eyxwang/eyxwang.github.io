@@ -4,7 +4,7 @@ title: About
 permalink: /
 nav: false
 nav_order: 0
-subtitle: "<em>Nothing is in vain, every step counts! Don't be afraid of anything, try it! -- to future.</em>"
+subtitle: "<em>Nothing is 100% in vain, make each step count! Don't be afraid of anything, try it! -- to future.</em>"
 header-background-img: "../assets/img/bg2.jpg"
 
 profile:
