@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Public Transit + DRL
-description: Real-time Online Task Assignment for Tram Motorman with Deep Reinforcement Learning @PolyU, Hong Kong
+description:
+  Real-time Route Task Assignment for Cost-effective Tram Operation with Deep Reinforcement Learning
+  @PolyU, Hong Kong
 img: assets/img/project_preview/tram_drl.jpg
 category: In Progress
 importance: 1
@@ -10,7 +12,7 @@ header-background-img:
 ---
 
 <div style="text-align: justify;">
-In modern cities, some public transit systems, e.g. trams and buses, face some uncertainties in their operation, such as disruption and bunching. This leads to inefficient service to the public and seriously affects the working hours and welfare of motormen. Thus, how to develop a flexible, robust, and efficient real-time online task assignment scheme according to such complex system dynamics for motormen become the core of this project.
+In modern cities, some public transit systems, e.g. trams and buses, face some uncertainties in their operation, such as disruption and bunching. This leads to inefficient service to the public and seriously affects the working hours and welfare of motormen, which further upsurges the operating cost of transport company due to service failure and overtime pay. Thus, how to develop a flexible, robust, and efficient real-time online task assignment scheme within urban public transit network according to such complex system dynamics motivates this project.
 </div>
 <br>
 <div class="row">
@@ -28,13 +30,13 @@ In modern cities, some public transit systems, e.g. trams and buses, face some u
 
 **Objectives:**
 
-- Create a simulator that will allow to test the performance of operational strategies and easily extend to other public transit systems.
-- Develop a Deep Reinforcement Learning (DRL) based agent to generate tasks to motormen.
+- Create a simulator according to Hong Kong tram network that will allow to test the performance of operational strategies, which will easily extend to other public transit systems.
+- Develop a Deep Reinforcement Learning (DRL) based agent to generate tasks to motormen in real-time assessment of transport status.
 - Explore a learning-based approach to alleviate or circumvent the high computational complexity of traditional optimization techniques.
 
 **Preview:**
 
-- DRL-based control framework of an example of tram network with three routes.
+- DRL-based control framework of an illustration of tram network with three routes. (Practical case in Hong Kong pls refer to [Hong Kong Tramways - Ding Ding](https://www.hktramways.com/en/interactive-map/))
 <div class="row">
     <div class="col-sm-2 mt-md-0"></div>
     <div class="col-sm-8 mt-md-0" style="text-align: center;">
