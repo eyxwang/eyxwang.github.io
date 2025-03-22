@@ -14,6 +14,15 @@ header-background-img: "../assets/img/bg6.jpg"
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/hk/album/%E7%B4%84%E5%AE%9A/1442377710?i=1442377715&l=en-GB"></iframe>
 <br>
 
+### Sydney@Jan25🇦🇺🌈, HITSZ@Mar25🇨🇳🌈
+
+<a href="../../assets/img/gallery/Sydney">
+  <img src="../assets/img/gallery/Sydney.jpg" alt="PolyU" width="400">
+</a>
+<a href="../../assets/img/gallery/hitsz">
+  <img src="../assets/img/gallery/hitsz.jpg" alt="Hung Hom" width="260">
+</a><br>
+
 ### PolyU@6AM, Hung Hom@12PM🇭🇰🇭🇰🇭🇰
 
 <a href="../../assets/img/gallery/polyu.jpg">
