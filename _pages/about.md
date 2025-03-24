@@ -66,7 +66,7 @@ Yixin is actively pursuing opportunities for a PhD research position while concu
     <div class="col-sm-2 mt-md-0"></div>
     <div class="col-sm-8 mt-md-0" style="text-align: center;">
         <div style="margin: auto;">
-            {% include figure.liquid loading="eager" path="assets/img/personality.jpg" title="exps" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/personality.png" title="personality" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <div class="col-sm-2 mt-md-0"></div>
