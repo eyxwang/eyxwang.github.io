@@ -17,10 +17,10 @@ header-background-img: "../assets/img/bg6.jpg"
 ### Sydney@Jan25🇦🇺🌈, HITSZ@Mar25🇨🇳🌈
 
 <a href="../../assets/img/gallery/Sydney">
-  <img src="../assets/img/gallery/Sydney.jpg" alt="PolyU" width="400">
+  <img src="../assets/img/gallery/Sydney.jpg" alt="Sydney" width="400">
 </a>
 <a href="../../assets/img/gallery/hitsz">
-  <img src="../assets/img/gallery/hitsz.jpg" alt="Hung Hom" width="260">
+  <img src="../assets/img/gallery/hitsz.jpg" alt="hitsz" width="260">
 </a><br>
 
 ### PolyU@6AM, Hung Hom@12PM🇭🇰🇭🇰🇭🇰
