@@ -24,13 +24,13 @@ Inventory management is a challenging problem that involves making a sequence of
 </div>
 
 **Process:**
-- A technical report was submitted to PolyU and we are conducting the next experiments.
-- We presented our initial exploration of simple inventory problems with lost sales and random uncensored demand in [the 2nd ORSHK Young Researchers Workshop](https://www.hksts.org/Workshop2023.pdf) on 9 Dec 2023, <*[SLIDES](../../assets/pdf/projects_pdf/ORSHK2023_yxwang.pdf)*>.
+
+- A _technical report_ was submitted to PolyU and we are conducting the next experiments.
+- We presented our initial exploration of simple inventory problems with lost sales and random uncensored demand in [the 2nd ORSHK Young Researchers Workshop](https://www.hksts.org/Workshop2023.pdf) on 9 Dec 2023, <_[SLIDES](../../assets/pdf/projects_pdf/ORSHK2023_yxwang.pdf)_>.
 
 **References:**
 
-- Boute, R. N., Gijsbrechts, J., Van Jaarsveld, W., & Vanvuchelen, N. (2022). Deep reinforcement learning for inventory control: A roadmap. *European Journal of Operational Research*, 298(2), 401-412.
-- Chen, B., Jiang, J., Zhang, J., & Zhou, Z. (2024). Learning to order for inventory systems with lost sales and uncertain supplies. *Management Science*.
-- Bu, J., Gong, X., & Yao, D. (2020). Constant-order policies for lost-sales inventory models with random supply functions: Asymptotics and heuristic. *Operations Research*, 68(4), 1063-1073.
-- Snyder, L. V., & Shen, Z. J. M. (2019). *Fundamentals of supply chain theory*. John Wiley & Sons.
-
+- Boute, R. N., Gijsbrechts, J., Van Jaarsveld, W., & Vanvuchelen, N. (2022). Deep reinforcement learning for inventory control: A roadmap. _European Journal of Operational Research_, 298(2), 401-412.
+- Chen, B., Jiang, J., Zhang, J., & Zhou, Z. (2024). Learning to order for inventory systems with lost sales and uncertain supplies. _Management Science_.
+- Bu, J., Gong, X., & Yao, D. (2020). Constant-order policies for lost-sales inventory models with random supply functions: Asymptotics and heuristic. _Operations Research_, 68(4), 1063-1073.
+- Snyder, L. V., & Shen, Z. J. M. (2019). _Fundamentals of supply chain theory_. John Wiley & Sons.

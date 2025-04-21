@@ -16,16 +16,16 @@ header-background-img: "../assets/img/bg3.jpg"
 
 - Do not hesitate to contact me if we can find a way to collaborate!
 
-<h3 align="left">Education:</h3>
+<!-- <h3 align="left">Education:</h3>
 
 - **M.Sc.** in **Management Science and Engineering** (MSE), [College of Management](http://cm.szu.edu.cn/), [Shenzhen University (SZU)](https://en.szu.edu.cn/), 2020-2023, supervised by [Prof. Hong Wang](https://cm.szu.edu.cn/Faculty/Management_Science/WANG_Hong.htm) in [Intelligent Management & Cross Innovation Team](https://mp.weixin.qq.com/s/wvfn8Upxj9f22lMPOzTy2w) led by [Prof. Ben Niu](https://cm.szu.edu.cn/Faculty/Management_Science/NIU_Ben.htm).;
-- **B.Sc.** in **Industrial Engineering** (IE), [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology (DGUT)](https://www.dgut.edu.cn/), 2016-2020.
+- **B.Sc.** in **Industrial Engineering** (IE), [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology (DGUT)](https://www.dgut.edu.cn/), 2016-2020. -->
 
 <h3 align="left">Languages:</h3>
 
-- Mother tongue: **Mandarin**, **Chaoshan dialect**;
+- Mother tongue: **Mandarin**, **Teochew Min**;
 
-- **English** (IELTS 6.5) and **Cantonese** are available for communication.
+- **English** (IELTS 6.5) and **Cantonese** (Advanced).
 
 <h3 align="left">Skills:</h3> <span style="color: #E04E39;">Technophile and always Open-source Altruism~</span>
 - <p align="left"> Dev tools: 

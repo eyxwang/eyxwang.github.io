@@ -58,6 +58,8 @@ In modern cities, some public transit systems, e.g. trams and buses, face some u
     <div class="col-sm-2 mt-md-0"></div>
 </div>
 
+**Output:** A _research report_ had submitted to the Hong Kong Polytechnic University while the manuscript to a journal is under preparation.
+
 **Reference:**
 
 - David SW Lai and Janny MY Leung. Real-time rescheduling and disruption management for public transit. _Transportmetrica B: Transport Dynamics_, 6(1):17–33, 2018.
