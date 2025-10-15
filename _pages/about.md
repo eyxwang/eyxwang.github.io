@@ -12,7 +12,7 @@ profile:
   image: wangyixin.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>🫣🫣🫣Yixin_WANG/王亿鑫.JPEG🤗</p>
+    <p style="text-align: center;">🫣🫣🫣Ethan.JPEG🤗🤗🤗</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the latest papers
@@ -36,7 +36,7 @@ Yixin is actively pursuing opportunities for a PhD research position while concu
 </div>
 <br>
 <div style="text-align: justify;">
-<strong>Research Interests</strong>: Intelligent decision-making with learning, especially Deep reinforcement learning (DRL); Data science; Operational research and optimization in transportation and inventory management; etc.
+<strong>Research Interests</strong>: Intelligent decision-making with learning, especially Deep reinforcement learning (DRL); Operational research and optimization; Transportation; Energy systems; etc.
 </div>
 <br>
 <div class="row">

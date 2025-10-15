@@ -1,14 +1,13 @@
-version: "3"
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
-    container_name: yixinwong1998
+    container_name: eyxwang
     image: amirpourmand/al-folio:latest # from dockerhub
     build: .
     network_mode: host # default is bridge, host let the container use host network
-    # ports:
-    #   - 8080:8080
-    #   - 35729:35729
+    ports:
+      - 8080:8080
+      - 35729:35729
     volumes:
       - .:/srv/jekyll
     # command: jekyll serve --watch --force_polling
