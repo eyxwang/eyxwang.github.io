@@ -1,7 +1,7 @@
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
-    container_name: eyxwang
+    container_name: eyixinwang
     image: amirpourmand/al-folio:latest # from dockerhub
     build: .
     network_mode: host # default is bridge, host let the container use host network
